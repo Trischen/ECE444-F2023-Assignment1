@@ -12,3 +12,6 @@
 ![Alt text](image-3.png)
 ## Rebase usage:
 ![Alt text](image-4.png)
+## Rebase alternative usage:
+![Alt text](image-5.png)
+Tested this usage, and then manually resolved conflict. Later reordered the commits using github windows client.
